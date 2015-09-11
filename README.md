@@ -5,6 +5,14 @@ Please visit the following url to review pages:
 
 - Coming Soon https://weflex.github.io/pages/coming-soon.html
 
+### Github Pages
+
+Run
+
+```
+$ make release
+```
+
 ### Why make this publicly?
 
 TODO
