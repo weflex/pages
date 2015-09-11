@@ -14,7 +14,7 @@ $(document).ready(function() {
 	/*
 		Final Countdown Settings
 	*/
-	var finalDate = Date.now() + 8 * 60 * 60 * 1000;
+	var finalDate = Date.now() + 30 * 60 * 1000;
 	$('div.counter').countdown(finalDate)
   .on('update.countdown', function(event) {
    	$(this).html(event.strftime(
