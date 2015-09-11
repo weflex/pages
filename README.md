@@ -3,8 +3,8 @@
 
 Please visit the following url to review pages:
 
-- Coming Soon https://weflex.github.io/pages/coming-soon.html
-- 404 https://weflex.github.io/pages/404.html
+- [Coming Soon](https://weflex.github.io/pages/coming-soon.html)
+- [404](https://weflex.github.io/pages/404.html)
 
 ### Github Pages
 
