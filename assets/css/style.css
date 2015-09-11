@@ -56,9 +56,10 @@ a, a:hover {
 }
 .logo i {
 	color: #28E6FD;
-	animation-name: logo-bleed;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
+	-webkit-animation: logo-bleed 3s infinite;
+	-moz-animation: logo-bleed 3s infinite;
+  -o-animation: logo-bleed 3s infinite;
+  animation: logo-bleed 3s infinite;
 }
 .coming-soon {
 	padding-top: 60px;
