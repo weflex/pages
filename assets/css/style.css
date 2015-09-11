@@ -1,3 +1,15 @@
+@keyframes logo-bleed {
+  0% {
+  	color: #28E6FD;
+  }
+  50% {
+  	color: red;
+  }
+  100% {
+  	color: #28E6FD;
+  }
+}
+
 body {
 	text-align: left;
 	font-family: 'Open Sans', sans-serif;
@@ -44,6 +56,9 @@ a, a:hover {
 }
 .logo i {
 	color: #28E6FD;
+	animation-name: logo-bleed;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
 }
 .coming-soon {
 	padding-top: 60px;
